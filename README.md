@@ -3,7 +3,7 @@ Code for the paper "Unraveling Contagion Origins: Optimal Estimation through Max
 
 `gh_starlike_approximation_toy_examples.ipynb`: the illustrative small examples in the paper.
 
-`gh_rumor_contiuous.ipynb`: the experiments evaluating the performance for detecting rumor source in graphs.
+`gh_rumor_contiuous.ipynb`: the numerical experiments on performance evaluation of rumor source detection in the paper.
 
 `results_in_paper.pkl`: the file stores the results in the paper.
 
