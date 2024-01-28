@@ -1,5 +1,5 @@
 
-Code for the paper "Probabilistic Pursuit of the Contagion Source: Maximum-likelihood Estimation over Large Networks under Markovian Spreading Models".
+Code for the paper "Unraveling Contagion Origins: Optimal Estimation through Maximum-Likelihood and Starlike Graph Approximation in Markovian Spreading Models".
 
 `gh_starlike_approximation_toy_examples.ipynb`: the toy examples in the paper.
 
